@@ -1,6 +1,5 @@
 ## code from https://aidiary.hatenablog.com/entry/20120415/1334458954
 import numpy as np
-from pylab import *
 
 def autocorr(x, nlags=None):
     """自己相関関数を求める
